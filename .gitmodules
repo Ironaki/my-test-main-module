@@ -1,0 +1,3 @@
+[submodule "my-test-sub-module"]
+	path = my-test-sub-module
+	url = git@github.com:Ironaki/my-test-sub-module.git
